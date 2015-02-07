@@ -30,7 +30,7 @@ def main():
 	fightClub = media.Movie("Fight Club",
 		"http://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
 		"https://www.youtube.com/watch?v=SUXWAEX2jlg")
-
+	
 	# put everything in a list
 	movies = [herrLehmann,bladeRunner,whateverWorks,fightClub]
 

@@ -1,5 +1,6 @@
 # definition for class movie
 class Movie:
+	""" This class provides a way to store movie related information"""
 	# constructor with title,Box Art URL and YouTube URL
 	def __init__(self,title,poster_image_url,trailer_youtube_url):
 		self.title = title
