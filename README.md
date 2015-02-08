@@ -9,5 +9,5 @@ udacity Full Stack Web Developer Nanodegree Project 1 - movie trailer website
 
 ##Usage
 ```bash
-vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ python movie_trailer_website.py
+[daniel@discodia:Project 1] python movie_trailer_website.py
 ```
